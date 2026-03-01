@@ -1,16 +1,38 @@
-## Hi there 👋
+## AI Interaction Systems Developer
 
-<!--
-**lerenaminy/lerenaminy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build AI-driven interactive systems that support human decision-making through conversational interfaces.
 
-Here are some ideas to get you started:
+My work focuses on how users perceive and respond to large language model (LLM)-based agents, particularly in terms of satisfaction, trust, and personality preference in AI interactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Research-Driven System Development
+
+I translate findings from Human–AI Interaction research into deployable AI systems, including:
+
+- Multi-agent conversational workflows  
+- LLM-based evaluation pipelines  
+- Retrieval-Augmented Generation (RAG) architectures  
+- User preference modeling  
+- Prompt optimization for hallucination reduction  
+
+---
+
+### Technical Interests
+
+- Decision Support Systems  
+- AI-powered Recommendation Engines  
+- Real-time Interactive Agents  
+- Client–Server Architecture (REST API)  
+- LLM Integration (GPT, Gemini)
+- MCP and Skills
+
+---
+
+### Current Focus
+
+- Evaluating user satisfaction with conversational AI  
+- Comparing behavioral responses to different AI personas  
+- Designing LLM-based systems for adaptive content recommendation  
+
+---
