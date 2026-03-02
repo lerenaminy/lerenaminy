@@ -1,6 +1,6 @@
-## AI Interaction Systems Developer
+## Welcome Message
 
-I design and build AI-driven interactive systems that support human decision-making through conversational interfaces.
+Hello, welcome to my space! I design and build AI-driven interactive systems that support human decision-making through conversational interfaces.
 
 My work focuses on how users perceive and respond to large language model (LLM)-based agents, particularly in terms of satisfaction, trust, and personality preference in AI interactions.
 
